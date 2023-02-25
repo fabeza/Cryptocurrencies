@@ -10,7 +10,7 @@ The analysis was performed using an elbow curve to identify the best number of c
 ## Results
 After careful preprocessing of the data, applying the elbow curve method and KMeans, the cryptocurrencies were grouped into four clusters based on transaction volume (Total Coin Supply and Total Coins Mined).
 
-![crypto_plot.png]()
+![crypto_plot.png](https://github.com/fabeza/Cryptocurrencies/blob/f39b166db2005907fa85e07827257156a6d0eee6/Starter_Code/crypto_plot.png)
 
 ## Summary
 The client should consider offering its clients the option of investing in the cryptocurrencies that are in the higher transaction and trade volume clusters, for example, BitTorrent.
